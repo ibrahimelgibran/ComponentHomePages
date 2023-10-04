@@ -1,0 +1,17 @@
+.container {
+  padding: 8px;
+  width: 50 0%;
+  margin-left: -200px;
+  box-shadow: 3px 3px 11px 3px (0 0 0 / 32%);
+}
+
+.list {
+  list-style: none;
+  width: 150%;
+  display: flex;
+  justify-content: center;
+}
+
+.item {
+  margin: 0px 20px;
+}
